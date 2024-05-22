@@ -5,9 +5,10 @@ let i = 0
 //while文
 while (i < holidays.length) {
   console.log(holidays[i]);
+  i++;
 }
 
 //for文
-for (i = 0; i < holidays.length; i++) {
-  console.log(holidays[i]);
+for (let j = 0; j < holidays.length; j++) {
+  console.log(holidays[j]);
 }
