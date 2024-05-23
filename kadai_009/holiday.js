@@ -12,3 +12,15 @@ while (i < holidays.length) {
 for (let j = 0; j < holidays.length; j++) {
   console.log(holidays[j]);
 }
+
+//for文(授業)
+for (let a = 1; a < 21; a++){
+  console.log(a);
+}
+
+//while文(授業)
+let b = 1
+while (b<=20) {
+  console.log(b);
+  b += 2;
+}
